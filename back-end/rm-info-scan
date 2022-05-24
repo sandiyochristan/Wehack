@@ -1,0 +1,5 @@
+while read dom ;
+	do
+		cat $dom | grep "severity: info" && rm $dom
+
+done < $1

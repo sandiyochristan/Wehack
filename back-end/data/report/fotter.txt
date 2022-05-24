@@ -1,0 +1,35 @@
+      <client></client>
+                </tbody>
+            </table>
+        </div>
+    </section>
+   
+    <script src="http://app.cappriciosec.com/report/index.js"></script>
+    <div class="fotter">
+        <p class="middle">
+
+            <a class="btn" href="tel:+919500049738">
+                <i class="fa fa-phone" style="transform: rotate(90deg);"></i>
+            </a>
+            <a class="btn" href="mailto:contact@cappriciosec.com">
+                <i class="fa fa-envelope"></i>
+            </a>
+            <a class="btn" href="https://cappriciosec.com/">
+                <i class="fab fa-google"></i>
+            </a>
+            <a class="btn" href="https://instagram.com/cappriciosec">
+                <i class="fab fa-instagram"></i>
+            </a>
+
+            <a class="btn" href="https://www.youtube.com/karthithehacker">
+                <i class="fab fa-youtube"></i>
+            </a>
+
+        </p>
+    </div>
+</body>
+
+<script src="http://app.cappriciosec.com/report/index.js"></script>
+
+</html>
+

@@ -1,0 +1,20 @@
+{
+  "name": "com.cappriciosec.we-hack",
+  "version": "1.0.0",
+  "description": "Ai tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js start"
+  },
+  "author": "karthithehacker",
+  "author-url": "https://karthithehacker.com/",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.15"
+  }
+}

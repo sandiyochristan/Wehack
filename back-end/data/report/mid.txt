@@ -1,0 +1,29 @@
+</p>
+            <p class="date"></p>
+        </div>
+        <div class="right">
+            <div class="brand-sec">
+                <p class="product">We - </p>
+                <p class="brand">Powered by </p>
+            </div>
+            <div class="logo-sec">
+                <img class="logo" src="https://cappriciosec.com/logo.png" alt="img">
+            </div>
+        </div>
+    </header>
+    <section>
+        <div class="tbl-header">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <thead>
+                    <tr>
+                        <th>Bug Name</th>
+                        <th>Priority</th>
+                        <th>Vulnerable Point</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="tbl-content">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody>
+
